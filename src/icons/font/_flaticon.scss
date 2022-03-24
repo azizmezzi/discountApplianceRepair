@@ -1,0 +1,119 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 22/06/2016 15:34
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-air-conditioning:before { content: "\f100"; }
+.flaticon-alarm-clock:before { content: "\f101"; }
+.flaticon-blender:before { content: "\f102"; }
+.flaticon-blender-1:before { content: "\f103"; }
+.flaticon-blender-2:before { content: "\f104"; }
+.flaticon-coffee-maker:before { content: "\f105"; }
+.flaticon-curler:before { content: "\f106"; }
+.flaticon-dishwasher:before { content: "\f107"; }
+.flaticon-epilator:before { content: "\f108"; }
+.flaticon-extractor:before { content: "\f109"; }
+.flaticon-fan:before { content: "\f10a"; }
+.flaticon-food-steamer:before { content: "\f10b"; }
+.flaticon-fridge:before { content: "\f10c"; }
+.flaticon-hair-clipper:before { content: "\f10d"; }
+.flaticon-hairdryer:before { content: "\f10e"; }
+.flaticon-iron:before { content: "\f10f"; }
+.flaticon-juicer:before { content: "\f110"; }
+.flaticon-kettle:before { content: "\f111"; }
+.flaticon-lamp:before { content: "\f112"; }
+.flaticon-meat-grinder:before { content: "\f113"; }
+.flaticon-microwave-oven:before { content: "\f114"; }
+.flaticon-mixer:before { content: "\f115"; }
+.flaticon-mixer-1:before { content: "\f116"; }
+.flaticon-multicooker:before { content: "\f117"; }
+.flaticon-music-player:before { content: "\f118"; }
+.flaticon-music-speaker:before { content: "\f119"; }
+.flaticon-oven:before { content: "\f11a"; }
+.flaticon-photo-camera:before { content: "\f11b"; }
+.flaticon-printer:before { content: "\f11c"; }
+.flaticon-refrigerator:before { content: "\f11d"; }
+.flaticon-sewing-machine:before { content: "\f11e"; }
+.flaticon-shaver:before { content: "\f11f"; }
+.flaticon-stove:before { content: "\f120"; }
+.flaticon-telephone:before { content: "\f121"; }
+.flaticon-television:before { content: "\f122"; }
+.flaticon-toaster:before { content: "\f123"; }
+.flaticon-toothbrush:before { content: "\f124"; }
+.flaticon-vacuum-cleaner:before { content: "\f125"; }
+.flaticon-vacuum-cleaner-1:before { content: "\f126"; }
+.flaticon-washing-machine:before { content: "\f127"; }
+    
+    $font-Flaticon-air-conditioning: "\f100";
+    $font-Flaticon-alarm-clock: "\f101";
+    $font-Flaticon-blender: "\f102";
+    $font-Flaticon-blender-1: "\f103";
+    $font-Flaticon-blender-2: "\f104";
+    $font-Flaticon-coffee-maker: "\f105";
+    $font-Flaticon-curler: "\f106";
+    $font-Flaticon-dishwasher: "\f107";
+    $font-Flaticon-epilator: "\f108";
+    $font-Flaticon-extractor: "\f109";
+    $font-Flaticon-fan: "\f10a";
+    $font-Flaticon-food-steamer: "\f10b";
+    $font-Flaticon-fridge: "\f10c";
+    $font-Flaticon-hair-clipper: "\f10d";
+    $font-Flaticon-hairdryer: "\f10e";
+    $font-Flaticon-iron: "\f10f";
+    $font-Flaticon-juicer: "\f110";
+    $font-Flaticon-kettle: "\f111";
+    $font-Flaticon-lamp: "\f112";
+    $font-Flaticon-meat-grinder: "\f113";
+    $font-Flaticon-microwave-oven: "\f114";
+    $font-Flaticon-mixer: "\f115";
+    $font-Flaticon-mixer-1: "\f116";
+    $font-Flaticon-multicooker: "\f117";
+    $font-Flaticon-music-player: "\f118";
+    $font-Flaticon-music-speaker: "\f119";
+    $font-Flaticon-oven: "\f11a";
+    $font-Flaticon-photo-camera: "\f11b";
+    $font-Flaticon-printer: "\f11c";
+    $font-Flaticon-refrigerator: "\f11d";
+    $font-Flaticon-sewing-machine: "\f11e";
+    $font-Flaticon-shaver: "\f11f";
+    $font-Flaticon-stove: "\f120";
+    $font-Flaticon-telephone: "\f121";
+    $font-Flaticon-television: "\f122";
+    $font-Flaticon-toaster: "\f123";
+    $font-Flaticon-toothbrush: "\f124";
+    $font-Flaticon-vacuum-cleaner: "\f125";
+    $font-Flaticon-vacuum-cleaner-1: "\f126";
+    $font-Flaticon-washing-machine: "\f127";

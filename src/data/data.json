@@ -1,0 +1,217 @@
+{
+  "Header": {
+    "title": "We are a Landing Page",
+    "paragraph": "Quality. Efficiency. Support."
+  },
+  "About": {
+    "paragraph": "Over the years, we’ve learned that great service begins and ends with experienced and friendly professionals, which explains our rigorous hiring process. We believe that our team is the best in the business, and have complete and total confidence in every person providing our services. Served Over Million Houses with 100% Satisfaction.",
+    "Why": [
+      "Highest level of quality",
+      "Focus on personalized service",
+      "Competitive rates"
+    ],
+    "Why2": [
+      "Customer satisfaction",
+      "Striving to meet ",
+      "Exceed expectations"
+    ]
+  },
+  "Services": {
+    "data1": [
+      {
+        "icon": "fa fa-wordpress",
+        "name": "WASHING MACHINE REPAIR",
+        "text": " We put quality first on all of our washing machine repairs, so no matter how large or small your issue, you can expect to have a working washer again soon. Our insured specialists have 24 years of experience in washer repair service, and we aim for nothing less than your complete satisfaction.We can provide washing machine repairs for problems including: Leaks, Failure to fill, Failure to spin, Failure to drain, Unusual noises or odors, Overfilling, Water temperature issues And more! A washing machine not draining, agitating, or even turning on at all is no match for our skilled and knowledgeable team. We’ll take the time to accurately diagnose the root cause of your problems, so we can provide effective and long-lasting washer repair. We have what it takes to meet your washing machine repair needs.​",
+        "text2": "Discount Appliances Repair is pleased to stand behind our washing machine repair service with a 90-day warranty that covers both our technicians’ labor and any parts we install. If your issue recurs after our initial visit, contact us right away. We’ll get someone back out to your property to figure out what went wrong and to make it right. It’s all part of our ongoing efforts to be your best source for washing machine repair service in the D/M/V region. We work on many major brands and models. We’ve been serving the local area since 1995, and we’re standing by to ensure that you get the exceptional services you need and deserve!",
+        "img": "img/services/washingMachine.jpg"
+      },
+      {
+        "icon": "fa fa-cart-arrow-down",
+        "name": "Dryer Repair",
+        "text": "We’re your source for washer and dryer repair in D/M/V, offering top-notch workmanship and customer service in our efforts to ensure your satisfaction. Whatever problems your dryer is experiencing, we have the knowledge and skill to carry out dryer repairs efficiently and effectively.We’ll be there for you from your initial phone call until your clothes dryer repair is complete—and beyond, thanks to our 90-day warranty. Contact us now to schedule your appointment! Discount Appliances Repair  is available for dryer repair service if your unit is: Failing to turn on, Failing to heat up, Failing to tumble, Overheating, Giving off unpleasant odors, Making strange noises, Or have any other performance issues.",
+        "text2": "While you might be tempted to try dryer repairs on your own, in general, hiring a professional is a much better idea. DIY dryer repair can be ineffective or actually make your problem worse, resulting in you having to call a clothes dryer repair technician in the end after all. Ensure that your dryer malfunctions are solved promptly by calling Discount Appliances Repair for dryer repair service right away. We work on All Major brands and models, and we’ll tailor our tumble dryer repairs to your specific unit’s needs.         ",
+        "img": "img/services/dryer.jpeg"
+      },
+      {
+        "icon": "fa fa-language",
+        "name": "FREEZER REPAIR",
+        "text": "Are you tired of storing items in your freezer, only to discover later that they have started to thaw—or are getting frostbite? For expert freezer repair in D/M/V turn to the experienced and knowledgeable team at Discount Appliances Repair. For 24 years, our pros have handled all sorts of freezer problems, and we’re sure to know how to resolve the issues your unit is having. Plus, because we provide freezer repairs for a variety of brands and models, we’ll be able to tailor our services to your model’s specific needs. For more about hiring Discount Appliances Repair HVAC for refrigerator/freezer repair, and to schedule, your appointment, call us today! Some of the most common freezer problems include: Inadequate cooling, Overcooling, Loud or unusual noises, Unpleasant Odors, Water Leaks, Frequent cycling on and off, Ice-maker problems",
+        "text2": "Whatever specific issues have led you to contact Discount Appliances Repair HVAC, you can expect us to provide prompt and effective freezer repairs. We put the quality of our workmanship before all other considerations because we know that, ultimately, you want to get your freezer back in action long term. We’ll use all of our knowledge and skill to give you refrigerator/freezer repair that lasts.",
+        "text3": "When you’re hiring a company to fix a freezer in your home, you want to make sure the technician who shows up is fully qualified. Discount Appliances Repair HVAC is fully insured for fridge and freezer repair, so you can breathe easy knowing your unit is in excellent hands. We’re also certified by the Environmental Protection Agency to handle hazardous refrigerants, including Freon. We’ll be able to carry out a safe and accurate freezer repair service on your behalf. If you’re ready to schedule your appointment, call Discount Appliances Repair HVAC today! We’ll be happy to answer any questions you have about our fridge/freezer repair services in and around Arlington. Then, we’ll give you the earliest available time slot on our repair roster.",
+        "img": "img/services/Refrigerator.png"
+      },
+      {
+        "icon": "fa fa-language",
+        "name": "OVEN REPAIR",
+        "text": "Our oven repair pros have two decades of experience in the industry and are committed to quality workmanship. We’re familiar with most major brands and models, and we take pride in providing accurate and effective repairs. Don’t live with an oven not heating or stove burners that won’t light. We look forward to meeting your needs in D/M/V Area. It doesn’t matter how serious your oven, stove, or range problems have become. We have the skill and knowledge to give you results.",
+        "text2": "Call our oven and stove repair team if your unit is: Heating ineffectively, Heating unevenly, Overheating, Sparking, Failing to heat at all, Having door issues Or experiencing any other problems. We’re pleased to provide both electric and gas oven repair. We provide oven repairs for residential units in both home and business settings in Arlington. We’ll get to the bottom of the problems you’re having and do whatever oven, range, or stove repair services are necessary to get everything working properly again.",
+        "img": "img/services/oven.jpg"
+      }
+    ],
+    "data2": [
+      {
+        "icon": "fa fa-wordpress",
+        "name": "Water Heater Repair",
+        "text": "If you enjoy having hot water on demand for your shower, washing machine, and other home appliances, you have your hard-working water heater to thank. Unfortunately, even the most reliable water heaters can occasionally break down, leading you to seek professional water heater repair. Discount Appliances Repair HVAC has been solving residential water heater problems in Arlington since 1995, and we’re ready to give you the help you need. Whether you have an issue with a water heater leaking or you need us to replace the heating element or another crucial component, we’ll get the job done right. Contact Discount Appliances Repair HVAC today to learn more! While you might be tempted to attempt DIY water heater repairs, it’s best to leave the task to a trained professional. After all, you don’t want to cause further damage or put your safety at risk in your efforts to get your unit working again. Discount Appliances Repair HVAC is standing by to assist with common water heater problems including: Leaks Insufficient hot water, Temperature fluctuations, Faulty gas pilots, Burned-out heating elements, Broken thermostats, Degraded anode rods, Damaged pressure-release valves And more",
+        "text2": "When you have a water heater leaking, making odd noises, or just not providing you with the hot water you need for your household, we’re the company to call. Our water heater repair experts are equipped with the knowledge and skill to solve your problems once and for all. We provide both gas and electric water heater repair, and we’re familiar with a wide array of brands and models. We’ll put our expertise to work to ensure that you get the quality water heater repair service you need and deserve.",
+        "img": "img/services/waterHeater.jpeg"
+      },
+      {
+        "icon": "fa fa-cart-arrow-down",
+        "name": "Furnace Repair",
+        "text": "We’re the company to trust for reliable furnace repair service. Since 1995, we’ve been depended on in the greater DMV area for quality workmanship and great overall value. Our seasoned pros will be able to meet your home furnace repair needs promptly and properly, so you can look forward to a comfortable and safe home this winter. Contact us today for more information about electric and gas furnace repair, and to schedule your appointment! When you hire a company for furnace repair service, you want to be sure the job is getting done right. In addition to having 24 years of experience on the job, Discount Appliances Repair HVAC is fully insured for all of the work we do. You can feel completely at ease putting your gas or electric furnace repair needs in our capable hands. Contact us for heating malfunctions including: Lack of heat Inability to start Cycling issues ,Thermostat defects, Pilot light problems, Unusual noises, Or any other performance problems",
+        "text2": "At Discount Appliances Repair HVAC, we take the time to tailor our furnace repairs to your unit’s specific needs. That means taking into account your brand and model when coming up with a plan of action. We’re familiar with the furnaces produced by most major manufacturers, so you can contact us for Bryant furnace repair, Trane furnace repair, and much more. We promise to put all of our knowledge and skill to the task of getting your home’s heating system up and running again soon. Contact Discount Appliances Repair HVAC right away if you’re interested in gas or electric furnace repair, replacement, or installation and you want to work with some of the best technicians in Arlington. Our home furnace repair and install specialists are more than qualified to meet your needs. We’re committed to your satisfaction, even offering a comprehensive 90-day warranty for all of our services. Book your appointment today! ",
+        "img": "img/services/furnace.jpg"
+      },
+      {
+        "icon": "fa fa-language",
+        "name": "Air Conditioner Repair",
+        "text": "Our team has offered expert air conditioning repair to local residents. We know how to quickly and effectively meet your AC repair needs, so you can get back to enjoying cool and comfortable air indoors. Contact us via phone or e-mail now to tell us about your air conditioner repair needs, and to book your appointment. We’ll get the job done right.Air conditioning systems are complex, and there are a variety of malfunctions that can leave you sweating it out as the temperatures rise. You can count on Discount Appliances Repair HVAC to get to the bottom of the issues you’re having and to provide accurate air conditioning service that will make things right. Common problems requiring professional air conditioning repairs include:Complete lack of cool air, Ineffective circulation; Continuous cycling; Fluctuating temperatures; Start-up issues; Leaks Excessive noise And more!        ",
+        "text2": "Whatever specific issues led you to call Discount Appliances Repair HVAC regarding air conditioning repair, you can trust us to bring you results. No problem is too large or too small for our team to tackle. We work with a variety of manufacturers and models, and we take pride in offering quality air conditioning service across the board. Trust our insured and EPA-certified AC repair technicians to give you our all. Thanks to our extensive training and our 24 years of experience in air conditioner service, Discount Appliances Repair HVAC truly does offer some of the highest caliber workmanship in the region. Plus, we stand behind our AC repair and installation work for a full 90 days. We care about satisfying our customers, and we’ll work hard to make sure that happens for you. Let us give you the skilled air conditioning repairs or central air installation you need to be able to enjoy everything summer has to offer.",
+        "img": "img/services/airCon.jpeg"
+      }
+    ]
+  },
+  "Testimonials": [
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "they did a very good job in my 10 years old dryer. good price and good people.",
+      "name": "Houcine E."
+    },
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "I have used them many times over the past several years. They are excellent. I always get appointments on time, and they are professional and honest. I highly recommend them. I was surprised at the negative comment one of the other reviewers had made. And I wanted to make sure that I commented because my experience has been completely different and extremely positive. Try them out for yourself and see.",
+      "name": "Ajay T."
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "I got an appointment to fix my fridge the same day I called them-within hours actually. The repairman was able to fix my fridge in less than 1 hour, had the part with him and I was able to use an online coupon for a discount.  They were fair, fast and professional.  I would recommend them and WILL call them again for any appliance repair I need.",
+      "name": "Chrisi R."
+    }
+  ],
+  "Team": {
+    "types": [
+      "Highest level of quality",
+      "Focus on personalized service",
+      "Competitive rates",
+      "Exceed expectations",
+      "Exceed expectations"
+    ],
+    "types2": [
+      "Customer satisfaction",
+      "Striving to meet ",
+      "Exceed expectations",
+      "Exceed expectations",
+      "Exceed expectations"
+    ],
+    "types3": [
+      "Customer satisfaction",
+      "Striving to meet ",
+      "Exceed expectations",
+      "Exceed expectations",
+      "Exceed expectations"
+    ],
+    "img": [
+      {
+        "img": "img/team/1.png",
+        "name": "John Doe",
+        "job": "Director"
+      },
+      {
+        "img": "img/team/2.jpg",
+        "name": "Mike Doe",
+        "job": "Senior Designer"
+      },
+      {
+        "img": "img/team/3.jpg",
+        "name": "Jane Doe",
+        "job": "Senior Designer"
+      },
+      {
+        "img": "img/team/4.png",
+        "name": "Karen Doe",
+        "job": "Project Manager"
+      },
+      {
+        "img": "img/team/5.png",
+        "name": "Karen Doe",
+        "job": "Project Manager"
+      },
+      {
+        "img": "img/team/6.jpg",
+        "name": "Karen Doe",
+        "job": "Project Manager"
+      },
+      {
+        "img": "img/team/7.png",
+        "name": "Karen Doe",
+        "job": "Project Manager"
+      },
+      {
+        "img": "img/team/8.png",
+        "name": "Karen Doe",
+        "job": "Project Manager"
+      },
+      {
+        "img": "img/team/9.jpg",
+        "name": "Karen Doe",
+        "job": "Project Manager"
+      },
+      {
+        "img": "img/team/10.png",
+        "name": "Karen Doe",
+        "job": "Project Manager"
+      },
+      {
+        "img": "img/team/11.jpeg",
+        "name": "Karen Doe",
+        "job": "Project Manager"
+      },
+      {
+        "img": "img/team/12.jpg",
+        "name": "Karen Doe",
+        "job": "Project Manager"
+      },
+      {
+        "img": "img/team/13.jpeg",
+        "name": "Karen Doe",
+        "job": "Project Manager"
+      },
+      {
+        "img": "img/team/14.jpeg",
+        "name": "Karen Doe",
+        "job": "Project Manager"
+      },
+      {
+        "img": "img/team/15.png",
+        "name": "Karen Doe",
+        "job": "Project Manager"
+      },
+      {
+        "img": "img/team/16.jpg",
+        "name": "Karen Doe",
+        "job": "Project Manager"
+      }
+    ]
+  },
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-tools",
+      "title": "GARBAGE DISPOSAL REPAIR",
+      "text": "Since its founding, DISCOUNT APPLIANCES REPAIR has been one of the most trusted names in the industry. Hire us for this service and learn how we cater to the needs of each client, ensuring the results you need and deserve."
+    },
+    {
+      "icon": "fa fa-tools",
+      "title": "WASHING MACHINE REPAIR",
+      "text": "We have the experience and skills necessary to tackle just about every type of job that comes our way. With DISCOUNT APPLIANCES REPAIR, clients know exactly what to expect - professionalism, efficiency and exceptional results."
+    }
+  ]
+}
